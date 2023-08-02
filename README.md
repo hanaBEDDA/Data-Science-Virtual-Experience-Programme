@@ -1,4 +1,4 @@
-# Data-Science-virtual-internship
+# Data-Science-Experience-Programme
 
 <div>
 <img src="https://github.com/hanaBEDDA/Data-Science-virtual-internship/assets/102734217/44c83337-0c43-4a1f-87bb-cc6847144da8" width="800" height="400">
